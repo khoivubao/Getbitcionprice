@@ -1,0 +1,6 @@
+﻿  main.c
+c:\embedded1\cpp class\getbitcoinprice\getbitcoinprice\main.c(14): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char (*)[4096]'
+c:\embedded1\cpp class\getbitcoinprice\getbitcoinprice\main.c(14): warning C4024: 'strstr': different types for formal and actual parameter 2
+c:\embedded1\cpp class\getbitcoinprice\getbitcoinprice\main.c(18): warning C4047: '!=': 'char *' differs in levels of indirection from 'int'
+c:\embedded1\cpp class\getbitcoinprice\getbitcoinprice\main.c(20): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+  getbitcoinprice.vcxproj -> C:\Embedded1\CPP class\getbitcoinprice\Debug\getbitcoinprice.exe
